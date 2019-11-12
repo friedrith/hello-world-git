@@ -4,6 +4,6 @@ A project to help beginners to start using git. Say hello in the language you wa
 
 - Hello
 - Bonjour
-- Güten tag!
+- Güten tag!!
 - Buna ziua!
 - Hola
